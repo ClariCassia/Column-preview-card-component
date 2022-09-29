@@ -1,0 +1,117 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+    font-size: 14px;
+    min-height: 100vh;
+    /* se ligar nisso no min-height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.container {
+    max-width: 830px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.container .card-sedan {
+    background-color: var(--cor-card-sedan)
+}
+
+.container .card-suv {
+    background-color: var(--cor-card-suv);
+}
+
+.container .card-luxury {
+    background-color: var(--cor-card-luxury);
+}
+
+.container .card {
+    border-radius: 5px;
+    padding: 41px;
+}
+
+.container .card .titulo {
+    font-size: 35px;
+    margin-top: 27px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: var(--cor-destaque);
+}
+
+.container .card .descricao {
+    margin: 25px 0;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 22px;
+}
+
+.btn {
+    margin-top: 80px;
+    background-color: var(--cor-destaque);
+    border-radius: 50px;
+    width: 133px;
+    height: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.btn-sedan a {
+    color: var(--cor-card-sedan);
+}
+
+.btn-sedan:active {
+    background-color: var(--cor-card-sedan);
+    border: 2px solid var(--cor-destaque);
+    cursor: pointer;
+}
+
+.btn-sedan:active a {
+    color: var(--cor-destaque);
+}
+
+.btn-suv a {
+    color: var(--cor-card-suv);
+}
+
+.btn-suv:active {
+    background-color: var(--cor-card-suv);
+    border: 2px solid var(--cor-destaque);
+    cursor: pointer;
+}
+
+.btn-suv:active a {
+    color: var(--cor-destaque);
+}
+
+.btn-luxury a {
+    color: var(--cor-card-luxury);
+}
+
+.btn-luxury:active {
+    background-color: var(--cor-card-luxury);
+    border: 2px solid var(--cor-destaque);
+    cursor: pointer;
+}
+
+.btn-luxury:active a {
+    color: var(--cor-destaque);
+}
+
+.attribution {
+    margin-top: 150px;
+}
+
+.attribution a {
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+.attribution a:hover {
+    color: darkcyan;
+    font-weight: 500;
+    /* verificar se ta funcionando o weight */
+}
