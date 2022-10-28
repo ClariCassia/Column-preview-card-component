@@ -2,12 +2,12 @@
 
 ## **Sumário**
 
-- [Sobre o projeto](https://github.com/ClariCassia/Landing-Page-Huddle#sobreoprojeto)
-- [Layout mobile](https://github.com/ClariCassia/Landing-Page-Huddle#layout-mobile)
-- [Layout web](https://github.com/ClariCassia/Landing-Page-Huddle#layout-web)
-- [Tecnologias utilizadas](https://github.com/ClariCassia/Landing-Page-Huddle#tecnologias-utilizadas)
-- [O que eu aprendi](https://github.com/ClariCassia/Landing-Page-Huddle#o-que-eu-aprendi)
-- [Acesso a página](https://github.com/ClariCassia/Landing-Page-Huddle#acesso-a-p%C3%A1gina)
+- [Sobre o projeto](https://github.com/ClariCassia/Column-preview-card-component#sobreoprojeto)
+- [Layout mobile](https://github.com/ClariCassia/Column-preview-card-component#layout-mobile)
+- [Layout web](https://github.com/ClariCassia/Column-preview-card-component#layout-web)
+- [Tecnologias utilizadas](https://github.com/ClariCassia/Column-preview-card-component#tecnologias-utilizadas)
+- [O que eu aprendi](https://github.com/ClariCassia/Column-preview-card-component#o-que-eu-aprendi)
+- [Acesso a página](https://github.com/ClariCassia/Column-preview-card-component#acesso-a-p%C3%A1gina)
 
 ## **Sobre o projeto**
 
@@ -15,11 +15,12 @@ Esse desafio do Frontend Mentor consiste em construir um componente de cartão d
 
 ## **Layout web**
 
-![https://github.com/ClariCassia/Landing-Page-Huddle/raw/main/src/gifs.readme/desktop-preview.gif](https://github.com/ClariCassia/Landing-Page-Huddle/raw/main/src/gifs.readme/desktop-preview.gif)
+<img src="./src/imagens/desktop-gif-readme.gif" alt="">
+    
 
 ## **Layout mobile**
 
-![https://github.com/ClariCassia/Landing-Page-Huddle/raw/main/src/gifs.readme/desktop-mobile.gif](https://github.com/ClariCassia/Landing-Page-Huddle/raw/main/src/gifs.readme/desktop-mobile.gif)
+<img src="./src/imagens/mobile-gif-readme.gif" alt="">
 
 ## **Tecnologias utilizadas**
 
