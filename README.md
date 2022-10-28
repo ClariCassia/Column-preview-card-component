@@ -33,4 +33,4 @@ Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquar
 
 ## **Acesso a página**
 
-Para ver o projeto pronto [clique aqui](https://claricassia.github.io/Landing-Page-Huddle/)
+Para ver o projeto pronto [clique aqui](https://claricassia.github.io/Column-preview-card-component/)
