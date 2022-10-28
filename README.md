@@ -11,7 +11,7 @@
 
 ## **Sobre o projeto**
 
-Esse desafio do Frontend Mentor consiste em construir um componente de cartão de visualização de 3 colunas fazendo com que layout fique ideal dependendo do tamanho da tela do dispositivo
+Esse desafio do Frontend Mentor consiste em construir um componente de cartão de visualização com 3 colunas fazendo com que layout fique ideal dependendo do tamanho da tela do dispositivo
 
 ## **Layout web**
 
